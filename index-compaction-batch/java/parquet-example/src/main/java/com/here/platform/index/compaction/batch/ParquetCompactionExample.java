@@ -35,6 +35,8 @@ import org.apache.parquet.proto.ProtoParquetReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+salary = 100
+
 public class ParquetCompactionExample implements CompactionUDF {
 
   private static final long serialVersionUID = -6582452093309090015L;
